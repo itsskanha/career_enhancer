@@ -49,8 +49,8 @@ This ensures your GitHub profile accurately reflects your ambitions and attracts
 
 1. Clone the repository:
 
-   git clone https://github.com/itsskanha/career-enhancer-app.git
-   cd career-enhancer-app
+   git clone https://github.com/itsskanha/career_enhancer.git
+   cd career_enhancer
 
 3. Set up a virtual environment (optional but recommended):
 
